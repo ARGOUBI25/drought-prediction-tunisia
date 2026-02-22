@@ -141,7 +141,7 @@ If you use this code or data, please cite:
   title   = {Spatiotemporal {SHAP} Analysis for Agricultural Drought 
              Prediction: A Multi-Source Machine Learning Framework 
              in Semi-Arid {Tunisia}},
-  author  = {[Author(s)]},
+  author  = {Argoubi},
   journal = {Frontiers in Artificial Intelligence},
   year    = {2026},
   doi     = {[to be added]}
