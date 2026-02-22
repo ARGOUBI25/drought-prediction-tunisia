@@ -1,32 +1,29 @@
 # Spatiotemporal SHAP Analysis for Agricultural Drought Prediction
 ## A Multi-Source Machine Learning Framework in Semi-Arid Tunisia
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18733246.svg)](https://doi.org/10.5281/zenodo.18733246)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/)
 [![Frontiers in AI](https://img.shields.io/badge/Journal-Frontiers%20in%20AI-red.svg)](https://www.frontiersin.org/journals/artificial-intelligence)
 
 ---
 
-## Overview
+## 📌 Overview
 
-This repository contains the full reproducible codebase for the paper:
+This repository contains the full reproducible codebase for the research paper:
 
-> **Spatiotemporal SHAP Analysis for Agricultural Drought Prediction:
-> A Multi-Source Machine Learning Framework in Semi-Arid Tunisia**
-> *Frontiers in Artificial Intelligence — AI in Food, Agriculture and Water*
-> 
-> Authors: Argoubi Majdi, ...
-> DOI: [to be added upon publication]
+> **Spatiotemporal SHAP Analysis for Agricultural Drought Prediction: A Multi-Source Machine Learning Framework in Semi-Arid Tunisia** > *Frontiers in Artificial Intelligence — Section: AI in Food, Agriculture and Water* > 
+> **Authors:** Argoubi Majdi, [Co-authors names]  
+> **Paper DOI:** [Pending Publication]  
+> **Dataset DOI:** [10.5281/zenodo.18733246](https://doi.org/10.5281/zenodo.18733246)
 
 ### Study Area
-Five semi-arid governorates of central Tunisia:
-**Kairouan · Kasserine · Sidi Bou Zid · Gafsa · Siliana**
+Five semi-arid governorates of central Tunisia: **Kairouan, Kasserine, Sidi Bou Zid, Gafsa, and Siliana**.
 
-### Period
-2001–2022 (monthly, 0.05° spatial resolution)
-
-### Dataset
-154,704 pixel-month observations · 586 pixels · 15 predictor variables
+### Objectives
+1. Predict agricultural drought (SSMI) using multi-source environmental and socioeconomic data.
+2. Evaluate 6 ML/DL models (XGBoost, LightGBM, CatBoost, RF, BPNN, LSTM) with a focus on extreme event generalization (2021–2022).
+3. Use **Tree SHAP** to explain global drivers and spatiotemporal drought dynamics.
 
 ---
 
@@ -67,6 +64,10 @@ drought-prediction-tunisia/
 ---
 
 ## Data Sources
+
+Processed Dataset
+The final assembled dataset (154,704 pixel-month observations) is archived on Zenodo:
+[10.5281/zenodo.18733246](https://doi.org/10.5281/zenodo.18733246)
 
 | Variable | Source | Resolution | Period |
 |----------|--------|------------|--------|
