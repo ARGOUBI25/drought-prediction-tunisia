@@ -15,7 +15,7 @@ This repository contains the full reproducible codebase for the paper:
 > A Multi-Source Machine Learning Framework in Semi-Arid Tunisia**
 > *Frontiers in Artificial Intelligence — AI in Food, Agriculture and Water*
 > 
-> Authors: [your name], ...
+> Authors: Argoubi Majdi, ...
 > DOI: [to be added upon publication]
 
 ### Study Area
