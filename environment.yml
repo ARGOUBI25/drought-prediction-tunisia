@@ -1,0 +1,29 @@
+name: drought-tunisia
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.10
+  - numpy>=1.24
+  - pandas>=2.0
+  - scipy>=1.10
+  - geopandas>=0.13
+  - shapely>=2.0
+  - rasterio>=1.3
+  - pyproj>=3.5
+  - scikit-learn>=1.3
+  - matplotlib>=3.7
+  - seaborn>=0.12
+  - cartopy>=0.21
+  - jupyter
+  - ipykernel
+  - requests
+  - pip
+  - pip:
+    - xgboost>=1.7.0
+    - lightgbm>=4.0.0
+    - catboost>=1.2.0
+    - shap>=0.42.0
+    - torch>=2.0.0
+    - tensorflow>=2.12.0
