@@ -13,7 +13,7 @@
 This repository contains the full reproducible codebase for the research paper:
 
 > **Spatiotemporal SHAP Analysis for Agricultural Drought Prediction: A Multi-Source Machine Learning Framework in Semi-Arid Tunisia** > *Frontiers in Artificial Intelligence — Section: AI in Food, Agriculture and Water* > 
-> **Authors:** Argoubi Majdi, [Co-authors names]  
+> **Authors:** Argoubi Majdi, Khaled Mili  
 > **Paper DOI:** [Pending Publication]  
 > **Dataset DOI:** [10.5281/zenodo.18733246](https://doi.org/10.5281/zenodo.18733246)
 
