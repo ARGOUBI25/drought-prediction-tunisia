@@ -1,0 +1,11 @@
+# .gitignore
+
+# Exclude large data files
+*.csv
+*.h5
+*.xlsx
+
+# Exclude temporary files
+*.tmp
+*.log
+*.swp
