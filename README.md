@@ -136,13 +136,13 @@ notebooks/01 → 02 → 03 → 04 → 05
 If you use this code or data, please cite:
 
 ```bibtex
-@article{[yourname]2025drought,
+@article{Argoubi2025drought,
   title   = {Spatiotemporal {SHAP} Analysis for Agricultural Drought 
              Prediction: A Multi-Source Machine Learning Framework 
              in Semi-Arid {Tunisia}},
   author  = {[Author(s)]},
   journal = {Frontiers in Artificial Intelligence},
-  year    = {2025},
+  year    = {2026},
   doi     = {[to be added]}
 }
 ```
